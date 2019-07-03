@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+div.form-group span {
+  color: red;
+}
+
+.react-datepicker-wrapper {
+  display: block !important;
+}
